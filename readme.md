@@ -1,8 +1,8 @@
 
 ### About me
 
-+ Conlan Scientific [conlanscientific.com](https://conlanscientific.com/)
-+ My blog [chrisconlan.com](https://chrisconlan.com/blog/)
++ Conlan Scientific \[[conlanscientific.com](https://conlanscientific.com/)\]
++ My blog \[[chrisconlan.com](https://chrisconlan.com/blog/)\]
 
 ### Recent publications 
 

@@ -8,7 +8,7 @@
 
 + *Algorithmic Trading with Python* \[[Amazon](https://www.amazon.com/Algorithmic-Trading-Python-Quantitative-Development/dp/B086Y6H6YG/), [Github](https://github.com/chrisconlan/algorithmic-trading-with-python)\]
 + *Fast Python: Master the Basics to Write Faster Code* \[[Amazon](https://www.amazon.com/Fast-Python-Master-Basics-Faster/dp/B089CWQWWC/), [Github](https://github.com/chrisconlan/fast-python)\]
-+ *The Financial Data Playbook* \[[Amazon](https://www.amazon.com/Fast-Python-Master-Basics-Faster/dp/B089CWQWWC/](https://www.amazon.com/Financial-Data-Playbook-Chris-Conlan/dp/B09BYDNSWH/)\]
++ *The Financial Data Playbook* \[[Amazon](https://www.amazon.com/Financial-Data-Playbook-Chris-Conlan/dp/B09BYDNSWH/)\]
 
 
 ### Interesting links
